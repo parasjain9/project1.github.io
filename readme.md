@@ -3,7 +3,7 @@
 
 ## 📜 Project Overview
 
-This project is the **4th** in my Python project streak 🐍, where I am working to enhance my programming skills by building practical applications. This application is a simple calculator built using Python's Tkinter library for GUI, providing basic arithmetic operations in a user-friendly interface.
+ This application is a simple calculator built using Python's Tkinter library for GUI, providing basic arithmetic operations in a user-friendly interface.
 
 ## ✨ Features
 
