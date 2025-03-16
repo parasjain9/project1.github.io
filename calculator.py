@@ -1,5 +1,3 @@
-""" --Calculator-- """
-
 
 # pip install tkinter
 from tkinter import Tk, Entry, Button, StringVar
